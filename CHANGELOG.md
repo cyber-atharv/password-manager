@@ -11,3 +11,6 @@ All notable changes to password-manager will be documented in this file.
 ## [0.1.2] - 2025-04-02
 - feat: add secure master password prompt and clipboard auto-clear
 
+## [0.1.3] - 2025-04-03
+- test: add unit tests for vault serialization and decryption error handling
+
